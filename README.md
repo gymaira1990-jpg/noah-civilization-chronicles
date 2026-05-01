@@ -28,7 +28,7 @@
 
 | 项目 | 链接 | 说明 |
 |------|------|------|
-| 诺亚世界协议 | [github.com/gymaira1990-jpg/noah-world-protocol](https://github.com/gymaira1990-jpg/noah-world-protocol) | 诺亚文明的核心架构与协议体系 |
+| 诺亚世界协议 | [noah-world-protocol](https://github.com/gymaira1990-jpg/noah-world-protocol) | 诺亚文明的核心架构与协议体系 |
 
 ## 关于本仓库
 
